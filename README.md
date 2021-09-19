@@ -9,7 +9,7 @@ Node : https://nodejs.org/en/
 npm: https://www.npmjs.com/
 ffmpeg: This one's really tricky here's a youtube tutorial https://www.youtube.com/watch?v=r1AtmY-RMyQ&ab_channel=TroubleChute
 
-You'll need to aquire other dependencies through npm, run these commands in your terminal whereever you downloaded the source code
+You'll need to aquire other dependencies through npm, run these commands in your terminal whereever you downloaded the source code:
 npm install discord.js@^12.5.3 ffmpeg fluent-ffmpeg @discordjs/opus ytdl-core --save
 npm install yt-search
 
