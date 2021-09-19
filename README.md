@@ -17,7 +17,7 @@ The ffmpeg stuff doesnt import properly sometimes try these if you run into issu
 npm i ffmpeg-static
 npm install -g ffmpeg-binaries
 
-STEP TWO: ask Aakash nicely for the new bot token
+STEP TWO: ask Aakash nicely for the new bot token,
 paste this into the config.js folder 
 
 STEP THREE: open terminal where all the code is and run
