@@ -22,3 +22,4 @@ paste this into the config.js folder
 
 STEP THREE: open terminal where all the code is and run
 node index.js
+OR once you have everything set up, double click on the bot.bat file and DiscordJockey should come alive
