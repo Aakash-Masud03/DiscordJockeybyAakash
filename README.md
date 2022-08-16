@@ -1,4 +1,5 @@
 # DiscordJockeybyMubtasim
+Youtube started cracking down on a lot of music-playing discord bots so I made a personal one
 STEP ONE: installing dependicies 
 
 if you're not a coder and dont have an IDE, get one. Google  VScode and get it
