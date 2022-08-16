@@ -1,4 +1,4 @@
-# DiscordJockeybyAakash
+# DiscordJockeybyMubtasim
 STEP ONE: installing dependicies 
 
 if you're not a coder and dont have an IDE, get one. Google  VScode and get it
